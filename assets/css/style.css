@@ -99,8 +99,19 @@ p {
     margin-bottom: 0;
 }
 
-.sidebar-wrapper .profile {
-    margin-bottom: 15px;
+.sidebar-wrapper .profile-container .avatar-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+}
+
+.sidebar-wrapper .profile-container .avatar-cropper .avatar {
+    margin: 0 auto;
+    height: auto;
+    width: 100%;
 }
 
 .sidebar-wrapper .contact-list .fa {
@@ -115,6 +126,10 @@ p {
 
 .sidebar-wrapper .contact-list li:last-child {
     margin-bottom: 0;
+}
+
+.sidebar-wrapper .contact-list li a {
+    word-break: break-all;
 }
 
 .sidebar-wrapper .contact-list .email .fa {
