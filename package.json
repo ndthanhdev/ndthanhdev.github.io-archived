@@ -1,0 +1,39 @@
+{
+  "name": "ndthanhdev.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettify": "prettier --check **/*.{json,html,md}",
+    "prettify:fix": "prettier --write **/*.{json,html,md}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndthanhdev/ndthanhdev.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndthanhdev/ndthanhdev.github.io/issues"
+  },
+  "homepage": "https://github.com/ndthanhdev/ndthanhdev.github.io#readme",
+  "devDependencies": {
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.5",
+    "prettier": "^1.16.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/*.{json,html,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}
