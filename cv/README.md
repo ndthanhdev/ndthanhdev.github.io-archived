@@ -1,10 +1,10 @@
 # Thanh, Nguyen
 
 <p align="center">
-  <img align="center" src="./assets/images/avatar.jpg" height="256" width="192">
+  <img align="center" src="./assets/images/avatar3.png" height="200">
   <br/>
   <br/>
-  A quick learning and creative full stack developer. Positive Attitude, Decision making skills
+  A quick learning, creative full stack developer. Positive Attitude, Decision making skills
 </p>
 
 # Skill & Proficiency
