@@ -57,11 +57,12 @@ _SAP Lab Vietnam - Intern_
 
 ## Projects
 
-**SAP Analytics Cloud KPI Plugin**
+**SAP Analytics Cloud - KPI Plugin**  
+_TBD_
 
-- implement/test ui
+<!-- - implement/test ui
 - setup project + testing
-- webpack + plugin
+- webpack + plugin -->
 
 **SAP HANA Cockpit Analytics Builder**  
 _Analytics Builder is a qraphical SQL design studio to enable flexible queries on top of tables._
@@ -78,7 +79,7 @@ _Open Bucket is an incognito P2P storage system, users are paid etherum if they 
 - Develop Tracker that mainly connects users together.
 
 **SStore**  
-_A combination of e-commerce website( PostgreSQL, Laravel, ASP.NET Core, Angular 2) and vending machines( Arduino), these components communicate via MQTT protocol._
+_A combination of e-commerce website and vending machines, these components communicate via MQTT protocol._
 
 - Develop admin service with PostgreSQL, ASP.NET
 - Develop single page web app for admin and customer with Angular 2
