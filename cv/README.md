@@ -4,10 +4,10 @@
   <img align="center" src="./assets/images/avatar.jpg" height="200">
   <br/>
   <br/>
-  A quick learning, creative full stack developer. Positive Attitude, Decision making skills
+  A quick learning, positive, self-driven and passionate developer with over one year experience and computer science background.Experienced in developing, testing for cloud projects. Providing enthusiastically support and assistance to colleagues.
 </p>
 
-# Skill & Proficiency
+# Skills
 
 ![](https://img.shields.io/badge/-willing-yellow.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/-prior%20experience-green.svg?style=for-the-badge)
@@ -30,6 +30,7 @@
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fnestjs.json)
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Felectron.json)
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fgraphql.json)
+![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fdocker.json)
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fdot-net.json)
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fethereum.json)
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Ftruffle.json)
@@ -51,18 +52,30 @@
 
 **SStore**
 
-# Employment History
+# Work experience
 
 **Now**
 
 > Developer at SAP
 
-**2018-10**
-
-> Intern at SAP
-
 **2018-01**
 
 # Achievements and Certificates
 
-# Resume
+# Personal info
+
+<img src="./assets/images/location_on.svg" width="16px"> Doan Van Bo 505, Ward 14th, District 4th, Ho Chi Minh
+
+<img src="./assets/images/mail.svg" width="16px"> ndthanhdev@outlook.com
+
+<img src="./assets/images/phone.svg" width="16px"> +84 988 907 164
+
+<img src="./assets/images/github.svg" width="16px"> /ndthanhdev
+
+<img src="./assets/images/linkedin.svg" width="16px"> /in/ndthanhdev
+
+---
+
+<p align="center">
+Latest at <a href="https://ndthanhdev.github.io/cv">ndthanhdev.github.io/cv</a>
+</p>
