@@ -43,7 +43,7 @@
 
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fmongo.json)
 ![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fmssql.json)
-![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fpostgresql.json)
+![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fndthanhdev.github.io%2Fendpoints%2Fcv%2Fsqllite.json)
 
 # Work experience
 
