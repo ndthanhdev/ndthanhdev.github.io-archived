@@ -114,5 +114,5 @@ _Ton Duc Thang University, Ho Chi Minh - 2018_
 ---
 
 <p align="center">
-Latest at <a href="https://ndthanhdev.github.io/cv">ndthanhdev.github.io/cv</a>
+Made with <img src="./assets/images/markdown.svg" width="16px">. Latest at <a href="https://ndthanhdev.github.io/cv">ndthanhdev.github.io/cv</a>
 </p>
