@@ -69,7 +69,7 @@ _TBD_
 - webpack + plugin -->
 
 **SAP HANA Cockpit - Analytics Builder**  
-_Analytics Builder is a qraphical SQL design studio to enable flexible queries on top of tables._
+_Analytics Builder is a graphical SQL design studio to enable flexible queries on top of tables._
 
 - Reduced 75% rendering time by implementing grunt task helps packing frontend source and libraries.
 - Implement and test UI/UX design.
