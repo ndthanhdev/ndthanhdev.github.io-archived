@@ -108,8 +108,8 @@ _Ton Duc Thang University, Ho Chi Minh - 2018_
 <img src="./assets/images/location_on.svg" width="16px"> 505 Doan Van Bo, Ward 14, District 4, Ho Chi Minh<br/>
 </div>
 <div style="flex-grow: 1">
-<img src="./assets/images/mail.svg" width="16px"> ndthanhdev@outlook.com<br/>
 <img src="./assets/images/phone.svg" width="16px"> (+84) 988 907 164<br/>
+<img src="./assets/images/mail.svg" width="16px"> ndthanhdev@outlook.com<br/>
 <img src="./assets/images/github.svg" width="16px"> /ndthanhdev<br/>
 <img src="./assets/images/linkedin.svg" width="16px"> /in/ndthanhdev<br/>
 </div>
