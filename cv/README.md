@@ -58,10 +58,11 @@ _SAP Labs Vietnam - Intern_
 ## Projects
 
 **SAP Analytics Cloud - KPI Plugin**  
-_Analytics Cloud is a pluggable SaaS BI platform and KPI plugin is builder of KPIs._
+_TBD_
 
-- Configure webpack to enable output of build process as a plugin
--
+<!-- _Analytics Cloud is a pluggable SaaS BI platform and KPI plugin is builder of KPIs._
+
+- Configure webpack to enable output of build process as a plugin -->
 
 <!-- - implement/test ui
 - setup project + testing
