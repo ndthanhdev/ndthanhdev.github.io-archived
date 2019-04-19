@@ -4,7 +4,7 @@
   <img align="center" src="./assets/images/avatar.jpg" height="200">
   <br/>
   <br/>
-  A quick learning, positive, self-driven and passionate developer with over one year experience and computer science background. Experienced in developing, testing for cloud projects. Providing enthusiastically support and assistance to colleagues.
+  Quick learning, positive, self-driven and passionate developer with over one year experience and computer science background. Experienced in developing, testing for cloud projects. Providing enthusiastically support and assistance to colleagues.
 </p>
 
 # Skills
@@ -58,36 +58,31 @@ _SAP Labs Vietnam - Intern_
 ## Projects
 
 **SAP Analytics Cloud - KPI Plugin**  
-_TBD_
+_Analytics Cloud is a pluggable SaaS BI platform and KPI plugin is builder of KPIs_
 
-<!-- _Analytics Cloud is a pluggable SaaS BI platform and KPI plugin is builder of KPIs._
-
-- Configure webpack to enable output of build process as a plugin -->
-
-<!-- - implement/test ui
-- setup project + testing
-- webpack + plugin -->
+- Implement webpack config that bundles project to be a SAP Analytics Cloud plugin
+- Develop and test UI/UX with React, Redux, Jest
 
 **SAP HANA Cockpit - Analytics Builder**  
-_Analytics Builder is a graphical SQL design studio to enable flexible queries on top of tables._
+_Analytics Builder is a graphical SQL design studio to enable flexible queries on top of tables_
 
-- Reduced 75% rendering time by implementing grunt task helps packing frontend source and libraries.
-- Implement and test UI/UX design.
+- Reduced 75% rendering time by implementing grunt task helps packing frontend source and libraries
+- Develop and test UI/UX with UI5
 
 **Open Bucket**  
-_Open Bucket is an incognito P2P storage system, users are paid etherum if they share their disk space with others._
+_Open Bucket is an incognito P2P storage system, users are paid etherum if they share their disk space with others_
 
 - Develop Desktop app with React, Redux, Electron
-- Develop Deamon is a service on user's machine that interacts with Tracker and smart contracts, built with NodeJs, web3.js.
+- Develop Deamon is a service on the user's machine that interacts with Tracker and smart contracts, built with NodeJs, web3.js
 - Develop smart contracts with Solidity, Truffle
-- Develop Tracker that mainly connects users together.
+- Develop Tracker that mainly connects users together
 
 **SStore**  
-_A combination of e-commerce website and vending machines, these components communicate via MQTT protocol._
+_A combination of e-commerce website and vending machines, these components communicate via MQTT protocol_
 
 - Develop admin service with PostgreSQL, ASP.NET
-- Develop single page web app for admin and customer with Angular 2
-- Program and build a simple vending machine with Arduino and hardwares
+- Develop a single page web app for admin and customer with Angular 2
+- Program and build a simple vending machine with Arduino and hardware
 
 # Awards
 
@@ -105,15 +100,20 @@ _Ton Duc Thang University, Ho Chi Minh - 2018_
 
 # Personal info
 
-<img src="./assets/images/location_on.svg" width="16px"> 505 Doan Van Bo, Ward 14, District 4, Ho Chi Minh
-
-<img src="./assets/images/mail.svg" width="16px"> ndthanhdev@outlook.com
-
-<img src="./assets/images/phone.svg" width="16px"> (+84) 988 907 164
-
-<img src="./assets/images/github.svg" width="16px"> /ndthanhdev
-
-<img src="./assets/images/linkedin.svg" width="16px"> /in/ndthanhdev
+<div style="display: flex">
+<div style="flex-grow: 1">
+<img src="./assets/images/perm_identity.svg" width="16px"> Nguyễn Duy Thanh<br/>
+<img src="./assets/images/gender.svg" width="16px"> Male<br/>
+<img src="./assets/images/cake.svg" width="16px"> 1996<br/>
+<img src="./assets/images/location_on.svg" width="16px"> 505 Doan Van Bo, Ward 14, District 4, Ho Chi Minh<br/>
+</div>
+<div style="flex-grow: 1">
+<img src="./assets/images/mail.svg" width="16px"> ndthanhdev@outlook.com<br/>
+<img src="./assets/images/phone.svg" width="16px"> (+84) 988 907 164<br/>
+<img src="./assets/images/github.svg" width="16px"> /ndthanhdev<br/>
+<img src="./assets/images/linkedin.svg" width="16px"> /in/ndthanhdev<br/>
+</div>
+</div>
 
 ---
 
