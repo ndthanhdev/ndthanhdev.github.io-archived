@@ -50,21 +50,24 @@
 ## Employment history
 
 **Present**  
-_SAP Lab Vietnam - Developer_  
+_SAP Labs Vietnam - Developer_  
 **2018 - 09**  
-_SAP Lab Vietnam - Intern_  
+_SAP Labs Vietnam - Intern_  
 **2018 - 01**
 
 ## Projects
 
 **SAP Analytics Cloud - KPI Plugin**  
-_TBD_
+_Analytics Cloud is a pluggable SaaS BI platform and KPI plugin is builder of KPIs._
+
+- Configure webpack to enable output of build process as a plugin
+-
 
 <!-- - implement/test ui
 - setup project + testing
 - webpack + plugin -->
 
-**SAP HANA Cockpit Analytics Builder**  
+**SAP HANA Cockpit - Analytics Builder**  
 _Analytics Builder is a qraphical SQL design studio to enable flexible queries on top of tables._
 
 - Reduced 75% rendering time by implementing grunt task helps packing frontend source and libraries.
@@ -74,8 +77,8 @@ _Analytics Builder is a qraphical SQL design studio to enable flexible queries o
 _Open Bucket is an incognito P2P storage system, users are paid etherum if they share their disk space with others._
 
 - Develop Desktop app with React, Redux, Electron
-- Develop Deamon with NodeJs is a service on user's machine that interacts with Tracker and smart contracts.
-- Develop smart contracts with Solidity, Truffle, web3.js
+- Develop Deamon is a service on user's machine that interacts with Tracker and smart contracts, built with NodeJs, web3.js.
+- Develop smart contracts with Solidity, Truffle
 - Develop Tracker that mainly connects users together.
 
 **SStore**  
