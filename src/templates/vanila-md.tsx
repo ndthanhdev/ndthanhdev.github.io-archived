@@ -16,7 +16,10 @@ export default class extends Component<IProps> {
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css"
         />
-        <div class="markdown-body" dangerouslySetInnerHTML={{ __html: html }} />
+        <div
+          className="markdown-body"
+          dangerouslySetInnerHTML={{ __html: html }}
+        />
       </div>
     );
   }

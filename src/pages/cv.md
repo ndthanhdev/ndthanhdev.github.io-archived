@@ -6,7 +6,7 @@ title: "ndthanhdev's CV"
 # Thanh, Nguyen
 
 <p align="center">
-  <img align="center" src="./assets/images/avatar.jpg" height="200">
+  <img align="center" src="../images/avatar.jpg" height="200">
   <br/>
   <br/>
   Quick learning, positive, self-driven and passionate developer with over one year experience and computer science background. Experienced in developing, testing for cloud projects. Providing enthusiastically support and assistance to colleagues.
@@ -71,7 +71,7 @@ _Analytics Cloud is a pluggable SaaS BI platform and KPI plugin is builder of KP
 **SAP HANA Cockpit - Analytics Builder**  
 _Analytics Builder is a graphical SQL design studio to enable flexible queries on top of tables_
 
-- Reduced 75% rendering time by implementing grunt task helps packing frontend source and libraries
+- Reduced 75% rendering time by implementing Grunt task that helps packing frontend source and libraries
 - Develop and test UI/UX with UI5
 
 **Open Bucket**  
@@ -107,21 +107,21 @@ _Ton Duc Thang University, Ho Chi Minh - 2018_
 
 <div style="display: flex">
 <div style="flex-grow: 1">
-<img src="./assets/images/perm_identity.svg" width="16px"> Nguyễn Duy Thanh<br/>
-<img src="./assets/images/gender.svg" width="16px"> Male<br/>
-<img src="./assets/images/cake.svg" width="16px"> 1996<br/>
-<img src="./assets/images/location_on.svg" width="16px"> 505 Doan Van Bo, Ward 14, District 4, Ho Chi Minh<br/>
+<img src="../images/perm_identity.svg" width="16px"> Nguyễn Duy Thanh<br/>
+<img src="../images/gender.svg" width="16px"> Male<br/>
+<img src="../images/cake.svg" width="16px"> 1996<br/>
+<img src="../images/location_on.svg" width="16px"> 505 Doan Van Bo, Ward 14, District 4, Ho Chi Minh<br/>
 </div>
 <div style="flex-grow: 1">
-<img src="./assets/images/phone.svg" width="16px"> (+84) 988 907 164<br/>
-<img src="./assets/images/mail.svg" width="16px"> ndthanhdev@outlook.com<br/>
-<img src="./assets/images/github.svg" width="16px"> /ndthanhdev<br/>
-<img src="./assets/images/linkedin.svg" width="16px"> /in/ndthanhdev<br/>
+<img src="../images/phone.svg" width="16px"> (+84) 988 907 164<br/>
+<img src="../images/mail.svg" width="16px"> ndthanhdev@outlook.com<br/>
+<img src="../images/github.svg" width="16px"> /ndthanhdev<br/>
+<img src="../images/linkedin.svg" width="16px"> /in/ndthanhdev<br/>
 </div>
 </div>
 
 ---
 
 <p align="center">
-Made with <img src="./assets/images/markdown.svg" width="16px">. Latest at <a href="https://ndthanhdev.github.io/cv">ndthanhdev.github.io/cv</a>
+Made with <img src="../images/markdown.svg" width="16px">. Latest at <a href="https://ndthanhdev.github.io/cv">ndthanhdev.github.io/cv</a>
 </p>
