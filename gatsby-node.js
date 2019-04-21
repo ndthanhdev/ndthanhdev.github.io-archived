@@ -9,7 +9,7 @@ const path = require('path')
 exports.createPages  = ({ actions, graphql }) => {
     const { createPage } = actions
   
-    const vanilaMdTemplate = path.resolve(`src/templates/vanila-md.tsx`)
+    const vanillaMdTemplate = path.resolve(`src/templates/vanilla-md.tsx`)
   
     return graphql(`
       {
@@ -34,7 +34,7 @@ exports.createPages  = ({ actions, graphql }) => {
       result.data.allMarkdownRemark.edges.forEach(({ node }) => {
         createPage({
           path: node.frontmatter.path,
-          component: vanilaMdTemplate,
+          component: vanillaMdTemplate,
           context: {}, // additional data can be passed via context
         })
       })

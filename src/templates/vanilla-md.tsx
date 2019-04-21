@@ -1,6 +1,6 @@
 import { graphql } from "gatsby";
 import React, { Component } from "react";
-import "./vanila-md.css";
+import "./vanilla-md.css";
 
 export interface IProps {
   data: any;
