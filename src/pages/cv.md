@@ -9,7 +9,7 @@ title: "ndthanhdev's CV"
   <img align="center" src="../images/avatar.jpg" height="200">
   <br/>
   <br/>
-  Quick learning, positive, self-driven and passionate developer with over one year experience and computer science background. Experienced in developing, testing for cloud projects. Providing enthusiastically support and assistance to colleagues.
+  Quick learning, positive, open-minded, self-driven and passionate developer with over one year experience and computer science background. Experienced in developing, testing for cloud projects. Providing enthusiastically support and assistance to colleagues.
 </p>
 
 # Skills
