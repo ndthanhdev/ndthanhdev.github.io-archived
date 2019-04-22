@@ -120,7 +120,7 @@ _Ton Duc Thang University, Ho Chi Minh - 2018_
 </div>
 </div>
 
----
+#
 
 <p align="center">
 Made with <img src="../images/markdown.svg" width="16px">. Latest at <a href="https://ndthanhdev.github.io/cv">ndthanhdev.github.io/cv</a>
